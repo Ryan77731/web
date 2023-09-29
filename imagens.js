@@ -14,13 +14,13 @@ let somDoPonto;
 // imagens do jogo
 
 function preload(){
-imagemDoEspaco = loadImage("imagens/espaço.jpeg");
+imagemDoEspaco = loadImage("imagens/espaço.png");
 imagemDaNave = loadImage("imagens/nave.jpeg");
 imagemMeteoro = loadImage("imagens/meteoro.png");
 imagemMeteoro2 = loadImage("imagens/meteoro2.png");
 imagemMeteoro3 = loadImage("imagens/meteoro3.png");
 imagemMeteoro4 = loadImage("imagens/meteoro4.png");
-imagemMeteoro5 = loadImage("imagens/meteoro5.png");
+imagemMeteoro5 = loadImage("imagens/meteoro5.jpeg");
   
 imagemMeteoros = [imagemMeteoro, imagemMeteoro2, imagemMeteoro3, imagemMeteoro4, imagemMeteoro5];
  
