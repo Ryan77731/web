@@ -14,7 +14,7 @@ let somDoPonto;imagens/espaço.png
 // imagens do jogo
 
 function preload(){
-imagemDoEspaco = loadImage("imagens/espaço.jpeg");
+imagemDoEspaco = loadImage("imagens/espaço.jpg");
 imagemDaNave = loadImage("imagens/nave.png");
 imagemMeteoro = loadImage("imagens/meteoro.png");
 imagemMeteoro2 = loadImage("imagens/meteoro2.png");
