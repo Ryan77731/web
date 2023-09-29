@@ -9,7 +9,7 @@ let imagemMeteoro5;
 
 let somDaTrilha;
 let somDeColisao;
-let somDoPonto;imagens/espaço.png
+let somDoPonto;
 
 // imagens do jogo
 
