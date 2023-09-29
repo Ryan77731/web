@@ -7,18 +7,21 @@ canvack;
 
 h1 {
   text-align: center;
+  color: rgb(0, 73, 168);
 }
 
 h2 {
   text-align : center;
+  color: rgb(0, 73, 168);
 }
 
 body{
   background-color : dimgray;
+  
 }
 h1 {
   text-align : center;
- 
+  color: rgb(0, 73, 168);
 }
 
 .logo {
