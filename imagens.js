@@ -9,13 +9,13 @@ let imagemMeteoro5;
 
 let somDaTrilha;
 let somDeColisao;
-let somDoPonto;
+let somDoPonto;imagens/espaço.png
 
 // imagens do jogo
 
 function preload(){
-imagemDoEspaco = loadImage("imagens/espaço.png");
-imagemDaNave = loadImage("imagens/nave.jpeg");
+imagemDoEspaco = loadImage("imagens/espaço.jpeg");
+imagemDaNave = loadImage("imagens/nave.png");
 imagemMeteoro = loadImage("imagens/meteoro.png");
 imagemMeteoro2 = loadImage("imagens/meteoro2.png");
 imagemMeteoro3 = loadImage("imagens/meteoro3.png");
