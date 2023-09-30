@@ -15,7 +15,7 @@ let somDoPonto;
 
 function preload(){
 imagemDoEspaco = loadImage("imagens/espaço.jpg");
-imagemDaNave = loadImage("imagens/nave.png");
+imagemDaNave = loadImage("imagens/nave.jpg");
 imagemMeteoro = loadImage("imagens/meteoro.png");
 imagemMeteoro2 = loadImage("imagens/meteoro2.png");
 imagemMeteoro3 = loadImage("imagens/meteoro3.png");
