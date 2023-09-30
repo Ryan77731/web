@@ -20,7 +20,7 @@ imagemMeteoro = loadImage("imagens/meteoro.png");
 imagemMeteoro2 = loadImage("imagens/meteoro2.png");
 imagemMeteoro3 = loadImage("imagens/meteoro3.png");
 imagemMeteoro4 = loadImage("imagens/meteoro4.png");
-imagemMeteoro5 = loadImage("imagens/meteoro5.jpeg");
+imagemMeteoro5 = loadImage("imagens/meteoro5.png");
   
 imagemMeteoros = [imagemMeteoro, imagemMeteoro2, imagemMeteoro3, imagemMeteoro4, imagemMeteoro5];
  
